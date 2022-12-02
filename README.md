@@ -1,7 +1,7 @@
 ## Gradient Descent vs SGD and Nesterov momentum
 An analysis study between the performance of Gradient Descent, Stochaistic Gradient Descent and Nesterov momentum for a logistic regression model on two classes of the MNIST dataset.
 
-### Loss curves and analysis
+### Loss curves and observations
 Plot of the training loss as a function of the number of parameter updates on a semi-log scale:
 ![image](https://user-images.githubusercontent.com/38180831/205387923-691bbd8d-2c17-47be-95f2-d1675ac9c65d.png)
 The slope of the line from the plot is-0.0084
